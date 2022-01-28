@@ -25,7 +25,6 @@ class ReinforceNecklace(threading.Thread):
         super(ReinforceNecklace, self).__init__()
         self.mouseDelay = 0.001
         self.keyboardDelay1 = 0.1
-        self.keyboardDelay2 = 0.1
         self.button = mouseButton
         self.running = False
         self.program_running = True

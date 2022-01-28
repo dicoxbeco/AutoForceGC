@@ -8,7 +8,7 @@ This is a personal and intermediate project for automating the clicks and keystr
 
 ## Potential Future Improvements
 - Add metadata for the necklace/bracelet reinforcement
-  - # of gems used, counts of reinforcment 
+  - Number of gems used, counts of reinforcment 
 - Automated equipment reinforcement
 - Auto-purchase necklage, bracelet, and gems used for reinforcement
 - GUI implementation if needed?
